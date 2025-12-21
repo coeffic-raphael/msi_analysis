@@ -1,0 +1,15 @@
+log_size
+head_entropy
+has_binary
+ies_action_count
+ies_executable_action_count
+ca_count
+ca_exe_count
+ca_dll_count
+ca_deferred_count
+ca_commit_count
+ca_suspicious_kw_hits
+lc_count
+nb_pe_files
+nb_exe
+nb_dll
